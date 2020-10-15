@@ -1,3 +1,3 @@
 # Github-Profiles
-Github Profiles Project using the fetch Api to get the data from the Github Api.
+Github Profiles Project using the Fetch API to get the data from the Github API.
  - Demo : https://codepen.io/MehdiAoussiad/full/mdPQxbq
